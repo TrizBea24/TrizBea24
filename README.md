@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrizBea24&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrizBea24&layout=compact&theme=buefy)](https://github.com/TrizBea24/github-readme-stats)
+
 <!--
 **TrizBea24/TrizBea24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
